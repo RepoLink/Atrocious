@@ -66,8 +66,7 @@ CONFIG_FILE_URL
 
 ```
  https://gist.github.com
-
-    ```
+```
 
 </details>
 
