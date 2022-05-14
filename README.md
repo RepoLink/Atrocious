@@ -65,7 +65,7 @@ CONFIG_FILE_URL
     <summary><b>Click here for more details</b></summary>
 
 ```
- https://gist.github.com
+https://gist.github.com
 ```
 
 </details>
